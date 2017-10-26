@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiallAbdoulaye/cb-rv-learn-node-xA.git"
+  },
+  "author": "Abdoulaye Diallo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiallAbdoulaye/cb-rv-learn-node-xA/issues"
+  },
+  "homepage": "https://github.com/DiallAbdoulaye/cb-rv-learn-node-xA#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "uuid": "^3.1.0"
+  }
+}
